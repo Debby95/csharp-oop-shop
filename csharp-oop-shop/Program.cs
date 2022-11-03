@@ -10,7 +10,7 @@
 using System.Net.Http.Headers;
 
 //variabili globali
-ProductHeaderValue product = new Product();
+Product product = new Product();
 
 //programma principale 
 product.Code = 40;
